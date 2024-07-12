@@ -25,7 +25,7 @@ if __name__ == '__main__':
 <div align="center">
 <br/>
 
-# <img src='https://upload.wikimedia.org/wikipedia/commons/2/26/Earth-spinning-rotating-animation-40.gif' width="40px"> Socials
+# Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%233333FF?logo=facebook&logoColor=white)](https://www.facebook.com/chanho9773/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23FB3958?logo=Instagram&logoColor=white)](https://www.instagram.com/chan._.ok/)
 
