@@ -1,9 +1,8 @@
 <h3 align="center">
   Welcome to nonamed19's profile!
-  <img src="https://media.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="28">
 </h3>
 <h1 align="center">
-About Me
+<img src="https://media.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="28"> About Me
 </h1>
 
 ```python
@@ -26,7 +25,7 @@ if __name__ == '__main__':
 <div align="center">
 <br/>
 
-# Socials
+# <img src='https://upload.wikimedia.org/wikipedia/commons/2/26/Earth-spinning-rotating-animation-40.gif' width="40px"> Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%233333FF?logo=facebook&logoColor=white)](https://www.facebook.com/chanho9773/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23FB3958?logo=Instagram&logoColor=white)](https://www.instagram.com/chan._.ok/)
 
@@ -37,7 +36,7 @@ if __name__ == '__main__':
 
 <br/>
 
-# Tech Stack
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35x"> Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -61,7 +60,7 @@ if __name__ == '__main__':
 
 <br/>
 
-# GitHub Statistics
+# <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px">GitHub Statistics
 ![](https://github-readme-stats.vercel.app/api?username=nonamed19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nonamed19&theme=radical&hide_border=false)<br/>
