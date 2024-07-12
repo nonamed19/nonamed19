@@ -1,32 +1,43 @@
 <h3 align="center">
   Welcome to nonamed19's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="28">
 </h3>
-<p align="center">
-  <a href="https://github.com/nonamed19/nonamed19">
-</p>
+<h1 align="center">
+✨About Me
+</h1>
 
----
+```python
+class nonamed19():
+    
+  def __init__(self):
+    self.name = "Chanho Kim";
+    self.username = "nonamed19";
+    self.location = "Suwon, Korea";
+    self.instagram = "#chan._.ok";
+    self.web = "https://github.com/nonamed19";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = nonamed19()
+```
+
 <div align="center">
-  
-# 💫About Me :
-🔭 I’m currently working on my github page : https://codewhiteweb.cf
-  
-🌱 I’m currently learning : Node.js
+<br/>
 
-  👯 I’m looking to collaborate on my webpage
+# Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%233333FF?logo=facebook&logoColor=white)](https://www.facebook.com/chanho9773/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23FB3958?logo=Instagram&logoColor=white)](https://www.instagram.com/chan._.ok/)
 
-  🤔 I’m Not looking for help
+<!-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb)  -->
 
-  💬 Ask me about for any help
+<br/>
 
-  📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
-
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
-
-# 💻Tech Stack💻
+# Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,7 +59,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
 
-# 📕GitHub Stats📕
+<br/>
+
+# GitHub Statistics
 ![](https://github-readme-stats.vercel.app/api?username=nonamed19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nonamed19&theme=radical&hide_border=false)<br/>
@@ -57,6 +70,3 @@
 
 <!-- ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nonamed19&theme=discord&no-frame=false&no-bg=false&margin-w=4) -->
-
-# 🌍Socials🌍
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
