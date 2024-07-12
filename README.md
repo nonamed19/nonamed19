@@ -25,7 +25,7 @@ if __name__ == '__main__':
 <div align="center">
 <br/>
 
-# Socials
+# <img src='https://upload.wikimedia.org/wikipedia/commons/2/26/Earth-spinning-rotating-animation-40.gif' width="40px"> Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%233333FF?logo=facebook&logoColor=white)](https://www.facebook.com/chanho9773/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23FB3958?logo=Instagram&logoColor=white)](https://www.instagram.com/chan._.ok/)
 
@@ -36,7 +36,7 @@ if __name__ == '__main__':
 
 <br/>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35x"> Tech Stack
+# Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
