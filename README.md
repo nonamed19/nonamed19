@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="28">
 </h3>
 <h1 align="center">
-✨About Me
+About Me
 </h1>
 
 ```python
